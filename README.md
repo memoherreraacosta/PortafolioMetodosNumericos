@@ -10,6 +10,7 @@ En la carpeta Parcial 1 se encontrarán las siguientes implementaciones :
               - Gráfico
               - Falsa Posición
               - Bairstow
+              
 En la carpeta Parcial 2 se encontrarán las siguientes implementaciones :
 
               - Matrices
@@ -18,4 +19,11 @@ En la carpeta Parcial 2 se encontrarán las siguientes implementaciones :
               - Gauss Seidel
               - Newton Raphson
               
-         
+En la carpeta Parcial 3 se encontrarán las siguientes implementaciones : 
+          
+              - Regresión Polinomial
+              - Interpolación Polinomial
+              - Método de Lagrange
+              - Ecuaciones Diferenciales (Euler)
+              - Ecuaciones Diferenciales (Kutta)
+              - Ecuaciones Diferenciales de Orden Superior
